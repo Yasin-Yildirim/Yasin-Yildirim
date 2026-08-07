@@ -38,9 +38,8 @@ Every line carries meaning.
 
 ## 🎯 Currently
 
-- 🔭 Diving deeper into Python and GUI applications
+- 🔭 Diving deeper into c++ and Qt6 applications
 - 🌱 Learning web technologies and spiritual development
-- 💡 Contributing actively to open source projects
 - ✨ Exploring the intersection of life and technology
 
 ---
