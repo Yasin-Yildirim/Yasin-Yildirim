@@ -8,11 +8,7 @@
 
 ## 🌟 Hakkımda
 
-Yazılım geliştirmeye tutkulu bir mühendisim, ancak bundan çok daha fazlasıyım. Teknolojiyi sadece kod yazmanın ötesinde, insan deneyimini zenginleştirmek ve hayatın daha anlamlı olmasını sağlamak için bir araç olarak görüyorum.
-
-İçimdeki merak ve ruhani arayışım beni her gün sorgulamaya, öğrenmeye ve kendimi geliştirmeye ittiyor. Yazılım dünyasındaki yolculuğumda, bilginin ve bilgeliğin kesiştiği noktaları bulmaya çalışıyorum. Kodun arkasında, insan ruhunun dijital ifadesi olduğuna inanıyorum.
-
-Açık kaynak dünyasına katkı sağlamak, yeni teknolojiler keşfetmek ve sorun çözmek benim tutkumdur. Her proje, yaşamın anlam ve amacını anlamaya doğru bir adımdır.
+Kod yazarken hayat yazıyorum. Teknoloji ve ruhani arayış arasında dengeyi arayan bir geliştiriciyim. Her satır, bir anlam taşır. 🌙✨
 
 ---
 
@@ -54,14 +50,6 @@ Açık kaynak dünyasına katkı sağlamak, yeni teknolojiler keşfetmek ve soru
 
 ---
 
-## 🌍 Hayat Felsefesi
-
-*"Kod yazarken, yaşam yazıyoruz. Her satır, bir anlamı taşır; her algoritma, hayatın bir parçasını yansıtır."*
-
-Teknoloji ile ruhani arayışımı birleştiren biriyim. İnsan-makine etkileşimini, dijital dünyada anlamlı deneyimler yaratmak için kullanmakta inanıyorum.
-
----
-
 ## 📫 Benimle İletişime Geçin
 
 <div align="center">
@@ -89,7 +77,5 @@ Teknoloji ile ruhani arayışımı birleştiren biriyim. İnsan-makine etkileşi
 <div align="center">
   
 **Ziyaretiniz için teşekkürler! Bir repoya yıldız vermeyi unutmayın ⭐**
-
-*Tüm teknolojinin ötesinde, insan olmak en önemli olandır.*
 
 </div>
